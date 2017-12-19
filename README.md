@@ -3,6 +3,8 @@ The SenseCeiver is a wireless device built to send sensitive sensor data via 2G,
 
 For more information see: http://www.roundsolutions.com/en/senseceiver/ 
 
+If you're interested to know how to integrate the SenseCeiver to your IoT application optimally, we suggest discussing your ideas with our experts. That way we can help you to implement your innovation. Contact us:http://www.roundsolutions.com/en/contact
+
 ## Applications
 The SenseCeiver offers a variety of innovative applications.
 
