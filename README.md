@@ -3,8 +3,6 @@ The SenseCeiver is a wireless device built to send sensitive sensor data via 2G,
 
 For more information see "wiki" or visit direclty our website at: http://www.roundsolutions.com/en/senseceiver/ 
 
-If you're interested to know how to integrate the SenseCeiver to your IoT application optimally, we suggest discussing your ideas with our experts. That way we can help you to implement your innovation. Contact us:http://www.roundsolutions.com/en/contact
-
 ## Applications
 The SenseCeiver offers a variety of innovative applications.
 
@@ -14,6 +12,8 @@ The device can transmit sensor data at preset intervals - e.g. a few seconds, ev
 • Event triggered message - SenseCeiver can be configured to send an emergency or alarm by e-mail and SMS when it detects abnormal measurements or activities. It can be used to measure air pressure, temperature levels, movement and all other data measured by sensors with 4-20mA industrial current loops.
  
 • OEM Integration - The SenseCeiver board can be integrated into sensor housings by OEMs (Original Equipment Manufacturers) to create a wireless sensor product.
+
+If you're interested to know how to integrate the SenseCeiver to your IoT application optimally, we suggest discussing your ideas with our experts. That way we can help you to implement your innovation. Contact us:http://www.roundsolutions.com/en/contact
 
 ## Installation
 SenseCeiver can be configured quickly and easily!
