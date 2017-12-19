@@ -1,7 +1,7 @@
 # SenseCeiver Wireless Sensor Gateway
 The SenseCeiver is a wireless device built to send sensitive sensor data via 2G, 3G or 4g cellular networks and is equipped with two 4-20mA galvanically seperated inputs for industrial sensors. There is also an I/O interface, a UART interface and a Micro USB connector. 
 
-For more information see: http://www.roundsolutions.com/en/senseceiver/ 
+For more information see "wiki" or visit direclty our website at: http://www.roundsolutions.com/en/senseceiver/ 
 
 If you're interested to know how to integrate the SenseCeiver to your IoT application optimally, we suggest discussing your ideas with our experts. That way we can help you to implement your innovation. Contact us:http://www.roundsolutions.com/en/contact
 
