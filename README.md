@@ -14,6 +14,7 @@ The device can transmit sensor data at preset intervals - e.g. a few seconds, ev
 • OEM Integration - The SenseCeiver board can be integrated into sensor housings by OEMs (Original Equipment Manufacturers) to create a wireless sensor product.
 
 If you're interested to know how to integrate the SenseCeiver to your IoT application optimally, we suggest discussing your ideas with our experts. That way we can help you to implement your innovation. 
+
 Contact us:http://www.roundsolutions.com/en/contact
 
 ## Installation
